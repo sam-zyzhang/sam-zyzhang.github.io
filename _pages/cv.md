@@ -7,58 +7,29 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Education
+* Ph.D in Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University, 2026 (expected)
+* M.E. in Control Engineering, Harbin Institute of Technology, Shenzhen, 2022
+* B.E. in Measurement and Control Technology and Instrument, Nanjing Tech University, 2020
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Selected Awards
+* **Presidential PhD Fellowship**, The Hong Kong Polytechnic University, 2024~2026.
+* **National Scholarship**, China Ministry of Education, 2021.
+* **Excellent Graduate**, Harbin Institute of Technology, 2023.
+* **Excellent Student**, Harbin Institute of Technology, 2022.
+* **Excellent Student Leader**, Harbin Institute of Technology, 2021.
+* **National Second Prize**, Award on China Robotics Skills Competition, 2018.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Academic services
+## Conference chairs
+* Session Chair, **IEEE ICRA 2021**, Special Session: Optimization and Control I, Xi'an, China.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Regular Reviewers in Journals and Conference
+### Journals
+* IEEE Transactions on Automation Science and Engineering (**TASE**) (2024~)
+* IEEE Robotics and Automation Letters (**RAL**) (2022~)
+
+### Conferences
+* IEEE International Conference on Robotics and Automation (**IEEE ICRA**) (2024)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (**IEEE IROS**) (2024, 2022)
+
