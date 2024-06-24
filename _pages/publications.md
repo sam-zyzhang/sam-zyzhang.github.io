@@ -9,10 +9,10 @@ My papers are also on [Google Scholar](https://scholar.google.com/citations?user
 
 # Journal Publications: 
 ## 2024
-1. **Zhengyan Zhang**, Ang Zhang, Jiewen Lai, Hongliang Ren, Rui Song, Yibin Li, Max Q.-H. Meng, Zhe Min*, [GHMM: Learning Generative Hybrid Mixture Models for Generalized Point Set Registration in Computer-assisted Orthopedic Surgery.](https://ieeexplore.ieee.org/document/10542369) IEEE Transactions on Medical Robotics and Bionics (**TMRB**), 2024. (JCR: Q2, Impact Factor: 3.7)
+1. **Zhengyan Zhang**, Ang Zhang, Jiewen Lai, Hongliang Ren, Rui Song, Yibin Li, Max Q.-H. Meng, Zhe Min, [GHMM: Learning Generative Hybrid Mixture Models for Generalized Point Set Registration in Computer-assisted Orthopedic Surgery.](https://ieeexplore.ieee.org/document/10542369) IEEE Transactions on Medical Robotics and Bionics (**TMRB**), 2024. (JCR: Q2, Impact Factor: 3.7)
 
 ## 2023
-1. **Zhengyan Zhang**, Erli Lyu*, Zhe Min, Ang Zhang, Yue Yu, Max Q.-H. Meng, [Robust Semi-supervised Point Cloud Registration via Latent GMM-based Correspondence.](https://www.mdpi.com/2072-4292/15/18/4493) Remote Sensing, 2023. (JCR: Q1, Impact Factor: 4.2)
+1. **Zhengyan Zhang**, Erli Lyu, Zhe Min, Ang Zhang, Yue Yu, Max Q.-H. Meng, [Robust Semi-supervised Point Cloud Registration via Latent GMM-based Correspondence.](https://www.mdpi.com/2072-4292/15/18/4493) Remote Sensing, 2023. (JCR: Q1, Impact Factor: 4.2)
 2. **Zhengyan Zhang**, Yue Yu, Liang Chen, Ruizhi Chen, [Hybrid Indoor Positioning System Based on Acoustic Ranging and Wi-Fi Fingerprinting under NLOS Environments.](https://www.mdpi.com/2072-4292/15/14/3520) Remote Sensing, 2023. (JCR: Q1, Impact Factor: 4.2)
 3. Zhe Min, Ang Zhang, **Zhengyan Zhang**, Jiaole Wang, Shuang Song, Hongliang Ren, Max Q.-H. Meng, [3D Rigid Point Set Registration for Computer-Assisted Orthopedic Surgery (CAOS): A Review from the Algorithmic Perspective](https://ieeexplore.ieee.org/abstract/document/10098186) IEEE Transactions on Medical Robotics and Bionics (**TMRB**), 2023. (JCR: Q2, Impact Factor: 3.7)
 
