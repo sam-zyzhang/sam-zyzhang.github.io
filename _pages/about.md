@@ -8,5 +8,8 @@ redirect_from:
 ---
 
 I am a PhD student at Autonomous & Intelligent Robotics Lab ([AIRO](https://github.com/HKPolyU-UAV)) in the Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University, supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/). 
-I received my M.Eng degree from Harbin Institute of Technology, Shenzhen, supervised by [Prof. Max Q.-H. Meng](https://faculty.sustech.edu.cn/mengqh/).
-Before that,  I received the B. Eng. degree in Measurement and Control Technology and Instrument from Nanjing Tech University, supervised by [Prof. Lihang Feng](https://eecs.njtech.edu.cn/info/1133/4859.htm).
+I received my M.Eng degree in Control Engineering from Harbin Institute of Technology, Shenzhen, supervised by [Prof. Max Q.-H. Meng](https://faculty.sustech.edu.cn/mengqh/).
+Before that,  I received my B.Eng. degree in Measurement and Control Technology and Instrument from Nanjing Tech University, supervised by [Prof. Lihang Feng](https://eecs.njtech.edu.cn/info/1133/4859.htm).
+
+My research mainly concentrates on 3D vision and robot navigation (e.g., surgical and underwater scenarios). I solve problems by integrating optimization algorithms with deep learning.
+ I currently work on topics about 3D generative models and point cloud registration.
