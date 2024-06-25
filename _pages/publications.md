@@ -19,6 +19,7 @@ My papers are also on [Google Scholar](https://scholar.google.com/citations?user
 ## 2022
 1. Ang Zhang, Zhe Min, **Zhengyan Zhang**, Xing Yang, Max Q.-H. Meng, [Anisotropic generalized bayesian coherent point drift for point set registration.](https://ieeexplore.ieee.org/abstract/document/9740507) IEEE Transactions on Automation Science and Engineering (**TASE**), 2022. (JCR: Q1, Impact Factor: 5.9)
 2. Ang Zhang, Zhe Min, **Zhengyan Zhang**, Max Q-H Meng, [Generalized point set registration with fuzzy correspondences based on variational Bayesian Inference.](https://ieeexplore.ieee.org/abstract/document/9737383) IEEE Transactions on Fuzzy Systems (**IEEE T FUZZY SYST**), 2022. (JCR: Q1, Impact Factor: 10.7)
+
 ## 2021
 1. **Zhengyan Zhang#**, Zhe Min#, Ang Zhang, Jiaole Wang, Shuang Song, Max Q.-H. Meng, [Reliable Hybrid Mixture Model for Generalized Point Set Registration.](https://ieeexplore.ieee.org/abstract/document/9576528) IEEE Transactions on Instrumentation and Measurement (**TIM**), 2021. (JCR: Q1, Impact Factor: 5.6)
 
