@@ -14,3 +14,9 @@ I also work closely with [Prof. Zhe Min](https://sucro.sdu.edu.cn/info/1012/1491
 
 My research mainly concentrates on 3D vision and robot navigation (e.g., surgical and underwater scenarios). I solve problems by integrating optimization algorithms with deep learning. 
 I currently work on topics about 3D generative models and point cloud registration.
+
+# Latest News [Month/Year]
+## 2024 [Month/Year]
+- [06/2024] Two papers are accepted by IROS 2024. Congratulations to Zhengyan Zhang, Xinzhe Du, and Zhe Min!
+- [05/2024] One papers are accepted by IEEE TMRB. Congratulations to Zhengyan Zhang and Zhe Min!
+- [01/2024] It is a great honor to join the [AIRO](https://github.com/HKPolyU-UAV) lab at PolyU and to be funded by PPPFS.
