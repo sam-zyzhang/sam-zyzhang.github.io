@@ -17,7 +17,7 @@ I currently work on topics about 3D generative models and point cloud registrati
 
 # Latest News [Month/Year]
 ## 2024 [Month/Year]
-- [**07/2024**] It is great to be invited to give a virtual talk on the CVlife platform with fruitful discussion. The topic is Research on Rigid Registration in Computer-Assisted Orthopedic Surgery.
+- [**07/2024**] It is great to be invited to give a **virtual talk** on the CVlife platform with fruitful discussion. The topic is **Research on Rigid Registration in Computer-Assisted Orthopedic Surgery**.
 - [**06/2024**] Two papers are accepted by **IROS 2024**. Congratulations to Zhengyan, Xinzhe, and Zhe Min!
 - [**05/2024**] One paper is accepted by **IEEE TMRB**. Congratulations to Zhengyan and Zhe Min!
 - [**01/2024**] It is a great honour to join the [AIRO](https://github.com/HKPolyU-UAV) lab at PolyU and to be funded by [PPPFS](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/).
