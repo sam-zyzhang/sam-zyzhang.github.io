@@ -17,6 +17,7 @@ I currently work on topics about 3D generative models and point cloud registrati
 
 # Latest News [Month/Year]
 ## 2024 [Month/Year]
+- [**07/2024**] The Jiangsu Province cooperation project for science and technology with Hong Kong, Macao, and Taiwan has been approved, with Prof. Lihang Feng serving as the PI and Prof. Chih-yung Wen as the Co-PI. **Zhengyan**, as the technical backbone from Hong Kong, is responsible for project application and research.
 - [**07/2024**] It is great to be invited to give a **virtual talk** on the CVlife platform with fruitful discussion. The topic is **Research on Rigid Registration in Computer-Assisted Orthopedic Surgery**.
 - [**06/2024**] Two papers are accepted by **IROS 2024**. Congratulations to Zhengyan, Xinzhe, and Zhe Min!
 - [**05/2024**] One paper is accepted by **IEEE TMRB**. Congratulations to Zhengyan and Zhe Min!
