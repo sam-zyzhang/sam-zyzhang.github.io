@@ -5,8 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research on Point Cloud Registration for Computer-Assisted Surgery
+{% include base_path %}
 
-# Research on Point Cloud Perception for Marine Robot Navigation
 
-# Research on UAV Navigation for Bridge Inspection
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
