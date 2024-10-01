@@ -30,7 +30,7 @@ redirect_from:
 * IEEE Robotics and Automation Letters (**RAL**) (2022~)
 
 ### Conferences
-* IEEE International Conference on Robotics and Automation (**IEEE ICRA**) (2024)
+* IEEE International Conference on Robotics and Automation (**IEEE ICRA**) (2025, 2024)
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (**IEEE IROS**) (2024, 2022)
 * International Conference on Indoor Positioning and Indoor Navigation (**IPIN**) (2024)
 * The Chinese Automation Congress (**CAC**) (2024)
