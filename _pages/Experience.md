@@ -34,4 +34,5 @@ redirect_from:
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (**IEEE IROS**) (2024, 2022)
 * International Conference on Indoor Positioning and Indoor Navigation (**IPIN**) (2024)
 * The Chinese Automation Congress (**CAC**) (2024)
+* The 16th International Conference on Information Processing in Computer-Assisted Interventions (**IPCAI**) (2025)
 
