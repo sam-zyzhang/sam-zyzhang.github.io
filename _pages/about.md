@@ -16,10 +16,8 @@ My research mainly concentrates on 3D vision and robot navigation (e.g., surgica
 I currently work on topics about 3D generative models and point cloud registration.
 
 # Latest News [Month/Year]
-<details>
 
-<summary>##2024##</summary>
-
+<details<summary><strong>## 2024</strong></summary>
 - [**12/2024**] The technology development project of Nanjing City has been approved. Prof. Lihang Feng serves as the PI and Prof. Chih-yung Wen serves as the Co-PI. **Zhengyan**, as the technical backbone from Hong Kong, is responsible for project application and research.
 - [**11/2024**] Our paper, titled **PF-MAAC: A Learning-based Method for Probabilistic Optimization in Time-Constrained Non-Adversarial Moving Target Search**, is accepted by **Swarm and Evolutionary Computation**. Congratulations to Qihang and Zhengyan!
 - [**09/2024**] Our paper, titled **A Novel Augmented Reality Assisted Orthopedic Surgical Robotic System with Bidirectional Surface Registration Algorithms**, is accepted by **IEEE TMRB**. Congratulations to Dr. Ang Zhang, Prof. Zhe Min, and Zhengyan!
