@@ -16,7 +16,9 @@ My research mainly concentrates on 3D vision and robot navigation (e.g., surgica
 I currently work on topics about 3D generative models and point cloud registration.
 
 # Latest News [Month/Year]
-
+## 2025
+- [**02/2025**] It is a great honor to visit [CCCC Fourth Harbor Engineering Co., Ltd.](https://etr.cccc4.com/) (中交四航工程研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned underwater vehicles.
+- [**02/2025**] It is a great honor to visit [GEDI](http://www.gedi.com.cn/) (中国能源建设集团广东省电力设计研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned systems.
 ## 2024
 - [**12/2024**] The technology development project of Nanjing City has been approved. Prof. Lihang Feng serves as the PI and Prof. Chih-yung Wen serves as the Co-PI. **Zhengyan**, as the technical backbone from Hong Kong, is responsible for project application and research.
 - [**11/2024**] Our paper, titled **PF-MAAC: A Learning-based Method for Probabilistic Optimization in Time-Constrained Non-Adversarial Moving Target Search**, is accepted by **Swarm and Evolutionary Computation**. Congratulations to Qihang and Zhengyan!
