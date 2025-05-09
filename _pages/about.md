@@ -18,7 +18,7 @@ I currently work on topics about 3D generative models and point cloud registrati
 # Latest News [Month/Year]
 ## 2025
 - [**02/2025**] It is a great honor to visit [CCCC Fourth Harbor Engineering Co., Ltd.](https://etr.cccc4.com/) (中交四航工程研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned underwater vehicles. 
-- [**02/2025**] It is a great honor to visit [GEDI](http://www.gedi.com.cn/) (中国能源建设集团广东省电力设计研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned systems.![Photo1](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/master/images/GEDI_2.png)![Photo2](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/master/images/GEDI_1.jpg)
+- [**02/2025**] It is a great honor to visit [GEDI](http://www.gedi.com.cn/) (中国能源建设集团广东省电力设计研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned systems.[Photo1](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/master/images/GEDI_2.png) [Photo2](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/master/images/GEDI_1.jpg)
 
 ## 2024
 - [**12/2024**] The technology development project of Nanjing City has been approved. Prof. Lihang Feng serves as the PI and Prof. Chih-yung Wen serves as the Co-PI. **Zhengyan**, as the technical backbone from Hong Kong, is responsible for project application and research.
