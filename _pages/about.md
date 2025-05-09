@@ -17,7 +17,7 @@ I currently work on topics about 3D generative models and point cloud registrati
 
 # Latest News [Month/Year]
 
-<details><summary><strong>## 2024</strong></summary>
+## 2024
 - [**12/2024**] The technology development project of Nanjing City has been approved. Prof. Lihang Feng serves as the PI and Prof. Chih-yung Wen serves as the Co-PI. **Zhengyan**, as the technical backbone from Hong Kong, is responsible for project application and research.
 - [**11/2024**] Our paper, titled **PF-MAAC: A Learning-based Method for Probabilistic Optimization in Time-Constrained Non-Adversarial Moving Target Search**, is accepted by **Swarm and Evolutionary Computation**. Congratulations to Qihang and Zhengyan!
 - [**09/2024**] Our paper, titled **A Novel Augmented Reality Assisted Orthopedic Surgical Robotic System with Bidirectional Surface Registration Algorithms**, is accepted by **IEEE TMRB**. Congratulations to Dr. Ang Zhang, Prof. Zhe Min, and Zhengyan!
@@ -26,4 +26,3 @@ I currently work on topics about 3D generative models and point cloud registrati
 - [**06/2024**] Two papers are accepted by **IROS 2024**. Congratulations to Zhengyan, Xinzhe, and Zhe Min!
 - [**05/2024**] One paper is accepted by **IEEE TMRB**. Congratulations to Zhengyan and Zhe Min!
 - [**01/2024**] It is a great honor to join the [AIRO](https://github.com/HKPolyU-UAV) lab at PolyU and to be funded by [PPPFS](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/).
-</details>
