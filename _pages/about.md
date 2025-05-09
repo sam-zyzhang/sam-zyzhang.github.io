@@ -17,8 +17,9 @@ I currently work on topics about 3D generative models and point cloud registrati
 
 # Latest News [Month/Year]
 ## 2025
-- [**02/2025**] It is a great honor to visit [CCCC Fourth Harbor Engineering Co., Ltd.](https://etr.cccc4.com/) (中交四航工程研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned underwater vehicles. ![Photo1](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/6bf33147eebaa4f565bf31d5e6cda3c24a17d999/images/GEDI_2.png) ![Photo2](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/master/images/CCCC_1.jpg) 
-- [**02/2025**] It is a great honor to visit [GEDI](http://www.gedi.com.cn/) (中国能源建设集团广东省电力设计研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned systems.![Photo1](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/6bf33147eebaa4f565bf31d5e6cda3c24a17d999/images/GEDI_2.png) ![Photo2](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/master/images/GEDI_1.jpg)
+- [**04/2025**] It is a great honor to visit [Hong Kong-Zhuhai-Macao Bridge Authority](https://td.gd.gov.cn/zwgk_n/zzjg/dgdw/content/post_2927509.html) (港珠澳大桥管理局) and present the research progress of our team in autonomous bridge inspection of unmanned systems. 
+- [**02/2025**] It is a great honor to visit [CCCC Fourth Harbor Engineering Co., Ltd.](https://etr.cccc4.com/) (中交四航工程研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned underwater vehicles. 
+- [**02/2025**] It is a great honor to visit [GEDI](http://www.gedi.com.cn/) (中国能源建设集团广东省电力设计研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned systems.
 
 ## 2024
 - [**12/2024**] The technology development project of Nanjing City has been approved. Prof. Lihang Feng serves as the PI and Prof. Chih-yung Wen serves as the Co-PI. **Zhengyan**, as the technical backbone from Hong Kong, is responsible for project application and research.
