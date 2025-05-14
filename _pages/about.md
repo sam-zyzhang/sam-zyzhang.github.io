@@ -18,7 +18,7 @@ I currently work on topics about 3D generative models and point cloud registrati
 # Latest News [Month/Year]
 ## 2025
 - [**04/2025**] Our research on **"Feature-guided Rigid Point Cloud Registration Method for Computer-Assisted Orthopedic Surgery"** has been officially granted patent rights. Congratulations to Prof. Zhe Min, Mr. Xinzhe Du, and Mr. Zhengyan Zhang!
-- [**04/2025**] It is a great honor to visit [Hong Kong-Zhuhai-Macao Bridge Authority](https://td.gd.gov.cn/zwgk_n/zzjg/dgdw/content/post_2927509.html) (港珠澳大桥管理局) and present the research progress of our team in autonomous bridge inspection of unmanned systems. ![Photo](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/378e8421f6eeed40dad07029fe9f21bfa1ca1610/images/CCCC_2.png)
+- [**04/2025**] It is a great honor to visit [Hong Kong-Zhuhai-Macao Bridge Authority](https://td.gd.gov.cn/zwgk_n/zzjg/dgdw/content/post_2927509.html) (港珠澳大桥管理局) and present the research progress of our team in autonomous bridge inspection of unmanned systems. [![Photo]](https://github.com/sam-zyzhang/sam-zyzhang.github.io/blob/378e8421f6eeed40dad07029fe9f21bfa1ca1610/images/CCCC_2.png)
 - [**02/2025**] It is a great honor to visit [CCCC Fourth Harbor Engineering Co., Ltd.](https://etr.cccc4.com/) (中交四航工程研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned underwater vehicles. 
 - [**02/2025**] It is a great honor to visit [GEDI](http://www.gedi.com.cn/) (中国能源建设集团广东省电力设计研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned systems.
 
