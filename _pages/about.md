@@ -17,6 +17,8 @@ I currently work on topics about 3D generative models and point cloud registrati
 
 # Latest News [Month/Year]
 ## 2025
+- [**05/2025**] It is a great honor to visit the [Prof. Lihang Feng](https://eecs.njtech.edu.cn/info/1133/4859.htm)'s team at Nanjing Tech University and give a talk.
+- [**05/2025**] It is a great honor to be appointed as a **council member of the Alumni Association** of the School of Electrical Engineering and Control Science at Nanjing Tech University.
 - [**04/2025**] Our research on **"Feature-guided Rigid Point Cloud Registration Method for Computer-Assisted Orthopedic Surgery"** has been officially granted patent rights. Congratulations to Prof. Zhe Min, Mr. Xinzhe Du, and Mr. Zhengyan Zhang!
 - [**04/2025**] It is a great honor to visit [Hong Kong-Zhuhai-Macao Bridge Authority](https://td.gd.gov.cn/zwgk_n/zzjg/dgdw/content/post_2927509.html) (港珠澳大桥管理局) and present the research progress of our team in autonomous bridge inspection of unmanned systems.
 - [**02/2025**] It is a great honor to visit [CCCC Fourth Harbor Engineering Co., Ltd.](https://etr.cccc4.com/) (中交四航工程研究院有限公司) and present the research progress of our team in autonomous inspection of unmanned underwater vehicles. 
