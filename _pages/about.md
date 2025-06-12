@@ -17,6 +17,7 @@ I currently work on topics about 3D generative models and point cloud registrati
 
 # Latest News [Month/Year]
 ## 2025
+- [**06/2025**]The sub-project **"Unmanned Underwater Vehicle Inspection System for Marine Engineering Structures"** under the Guangdong-Hong Kong Joint Laboratory for Marine Infrastructure has been officially approved for launch. Prof. Chih-yung Wen will serve as PI, with Mr. Zhengyan Zhang leading the technical team. Congratulations!
 - [**05/2025**] It is a great honor to visit the [Prof. Lihang Feng](https://eecs.njtech.edu.cn/info/1133/4859.htm)'s team at Nanjing Tech University and give a talk.
 - [**05/2025**] It is a great honor to be appointed as a **council member of the Alumni Association** of the School of Electrical Engineering and Control Science at Nanjing Tech University.
 - [**04/2025**] Our research on **"Feature-guided Rigid Point Cloud Registration Method for Computer-Assisted Orthopedic Surgery"** has been officially granted patent rights. Congratulations to Prof. Zhe Min, Mr. Xinzhe Du, and Mr. Zhengyan Zhang!
