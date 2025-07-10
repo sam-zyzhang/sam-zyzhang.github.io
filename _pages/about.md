@@ -17,6 +17,7 @@ I currently work on topics about 3D generative models and point cloud registrati
 
 # Latest News [Month/Year]
 ## 2025
+- [**07/2025**] Our paper titled **"Pseudo Forward Depth Estimation for Imaging Sonar Using Diffusion Models"** has been accepted by the International Conference on Information Automation (**ICIA**) 2025. Congratulations to Zhengyan and Haochen. This research was supported by the [Guangdong-Hong Kong Joint Laboratory for Marine Infrastructure](https://www.polyu.edu.hk/jlmi/).
 - [**06/2025**] Two papers are accepted by **IROS 2025**. Congratulations to Zhengyan, Xinzhe, and Zhe Min! Hope to see you in Hangzhou!
 - [**06/2025**] The sub-project **"Unmanned Underwater Vehicle Inspection System for Marine Engineering Structures"** under the Guangdong-Hong Kong Joint Laboratory for Marine Infrastructure has been officially approved for launch. Prof. Chih-yung Wen will serve as PI, with Mr. Zhengyan Zhang leading the technical team. Congratulations!
 - [**05/2025**] It is a great honor to visit the [Prof. Lihang Feng](https://eecs.njtech.edu.cn/info/1133/4859.htm)'s team at Nanjing Tech University and give a talk.
