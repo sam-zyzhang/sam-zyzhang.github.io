@@ -24,14 +24,15 @@ redirect_from:
 ## Conference chairs
 * Session Chair, **IEEE ICRA 2021**, Special Session: Optimization and Control I, Xi'an, China.
 
-## Regular Reviewers in Journals and Conference
+## Regular Reviewers in Journals and Conferences
 ### Journals
 * IEEE Transactions on Automation Science and Engineering (**TASE**) (2024~)
 * IEEE Robotics and Automation Letters (**RAL**) (2022~)
+* Computerized Medical Imaging and Graphics (**CMIG**) (2025~)
 
 ### Conferences
 * IEEE International Conference on Robotics and Automation (**IEEE ICRA**) (2025, 2024)
-* IEEE/RSJ International Conference on Intelligent Robots and Systems (**IEEE IROS**) (2024, 2022)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (**IEEE IROS**) (2025, 2024, 2022)
 * International Conference on Indoor Positioning and Indoor Navigation (**IPIN**) (2024)
 * The Chinese Automation Congress (**CAC**) (2024)
 * The 16th International Conference on Information Processing in Computer-Assisted Interventions (**IPCAI**) (2025)
