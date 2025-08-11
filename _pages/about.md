@@ -17,6 +17,7 @@ I currently work on topics about 3D generative models and point cloud registrati
 
 # Latest News [Month/Year]
 ## 2025
+- [**08/2025**] Our paper titled **"Spatial-temporal Diffusion Model for Underwater Scene Reconstruction with Application to UUV Navigation"** has been accepted by IEEE/ASME Transactions on Mechatronics (**TMECH**). Congratulations to Zhengyan and Liang Fang.
 - [**07/2025**] Congratulations to Zhengyan on successfully passing the PhD confirmation.
 - [**07/2025**] Our paper titled **"Pseudo Forward Depth Estimation for Imaging Sonar Using Diffusion Models"** has been accepted by the International Conference on Information Automation (**ICIA**) 2025. Congratulations to Zhengyan and Haochen. This research was supported by the [Guangdong-Hong Kong Joint Laboratory for Marine Infrastructure](https://www.polyu.edu.hk/jlmi/).
 - [**06/2025**] Two papers are accepted by **IROS 2025**. Congratulations to Zhengyan, Xinzhe, and Zhe Min! Hope to see you in Hangzhou!
