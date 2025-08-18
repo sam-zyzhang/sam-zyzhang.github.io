@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Autonomous & Intelligent Robotics Lab ([AIRO](https://github.com/HKPolyU-UAV)) in the Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University, supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/) (ASME Fellow). 
-I received my M.Eng degree in Control Engineering from Harbin Institute of Technology, Shenzhen, supervised by [Prof. Max Q.-H. Meng](https://faculty.sustech.edu.cn/mengqh/) (IEEE Fellow).
+I am a PhD candidate at Autonomous & Intelligent Robotics Lab ([AIRO](https://github.com/HKPolyU-UAV)) in the Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University, supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/) (ASME/RAES/HKIE Fellow). 
+I received my M.Eng degree in Control Engineering from Harbin Institute of Technology, Shenzhen, supervised by [Prof. Max Q.-H. Meng](https://faculty.sustech.edu.cn/mengqh/) (IEEE/CAE/HKIE Fellow).
 Before that,  I received my B.Eng. degree in Measurement and Control Technology and Instrument from Nanjing Tech University, supervised by [Prof. Lihang Feng](https://eecs.njtech.edu.cn/info/1133/4859.htm) (IEEE Senior Member).
 I also work closely with [Prof. Zhe Min](https://sucro.sdu.edu.cn/info/1012/1491.htm) at Shandong University, [Prof. Jiaole Wang](https://faculty.hitsz.edu.cn/jlwang) and [Prof. Shuang Song](https://faculty.hitsz.edu.cn/songshuang) at Harbin Institute of Technology, Shenzhen.
 
