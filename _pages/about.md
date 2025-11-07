@@ -16,8 +16,9 @@ My research mainly concentrates on 3D vision and robot navigation (e.g., surgica
 
 # Latest News [Month/Year]
 ## 2025
-- [**08/2025**] Our paper titled **"Spatial-temporal Diffusion Model for Underwater Scene Reconstruction with Application to UUV Navigation"** has been accepted by IEEE/ASME Transactions on Mechatronics (**TMECH**). Congratulations to Zhengyan and Liang Fang.
-- [**07/2025**] Congratulations to Zhengyan on successfully passing the PhD confirmation.
+- [**11/2025**] Our paper titled **"DeepBHMR: Learning Bidirectional Hybrid Mixture Models for Generalized Global Rigid Point Set Registration in Computer-assisted Orthopedic Surgery"** has been accepted by IEEE Transactions on Automation Science and Engineering (**TASE**). Congratulations to Zhengyan!
+- [**08/2025**] Our paper titled **"Spatial-temporal Diffusion Model for Underwater Scene Reconstruction with Application to UUV Navigation"** has been accepted by IEEE/ASME Transactions on Mechatronics (**TMECH**). Congratulations to Zhengyan and Liang Fang!
+- [**07/2025**] Congratulations to Zhengyan on successfully passing the PhD confirmation!
 - [**07/2025**] Our paper titled **"Pseudo Forward Depth Estimation for Imaging Sonar Using Diffusion Models"** has been accepted by the International Conference on Information Automation (**ICIA**) 2025. Congratulations to Zhengyan and Haochen. This research was supported by the [Guangdong-Hong Kong Joint Laboratory for Marine Infrastructure](https://www.polyu.edu.hk/jlmi/).
 - [**06/2025**] Two papers are accepted by **IROS 2025**. Congratulations to Zhengyan, Xinzhe, and Zhe Min! Hope to see you in Hangzhou!
 - [**06/2025**] The sub-project **"Unmanned Underwater Vehicle Inspection System for Marine Engineering Structures"** under the Guangdong-Hong Kong Joint Laboratory for Marine Infrastructure has been officially approved for launch. Prof. Chih-yung Wen will serve as PI, with Mr. Zhengyan Zhang leading the technical team. Congratulations!
