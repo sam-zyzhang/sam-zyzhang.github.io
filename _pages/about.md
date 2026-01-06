@@ -15,8 +15,9 @@ I also work closely with [Prof. Zhe Min](https://sucro.sdu.edu.cn/info/1012/1491
 My research mainly concentrates on 3D vision and robot navigation (e.g., surgical and underwater scenarios). I solve problems by integrating optimization algorithms with deep learning. I currently work on topics about 3D generative models, sonar reconstruction, and point cloud registration.
 
 # Latest News [Month/Year]
-## 2025
+## 2026
 - [**01/2025**] Our paper titled **"Robust Generalized Partial-to-Full Point Set Registration with Overlap-Guided Bidirectional Hybrid Mixture Model for Computer-Assisted Orthopedic Surgery"** has been accepted by IEEE Transactions on Automation Science and Engineering (**TASE**). Congratulations to Xinzhe and Zhengyan!
+
 ## 2025
 - [**12/2025**] Our startup project, **"The AI Engine of Intelligent Inspection: Empowering Unmanned Underwater Vehicles for Marine Infrastructure Integrity"**, has been shortlisted as one of the **Top Performers** in [the PolyU Micro Fund 2025/26 Cohort 1](https://www.polyu.edu.hk/kteo/entrepreneurship/funding_investment/polyu-micro-fund-scheme/?sc_lang=en). **Zhengyan** served as the Principal Applicant. Congratulations to Zhengyan!
 - [**11/2025**] Our paper titled **"DeepBHMR: Learning Bidirectional Hybrid Mixture Models for Generalized Global Rigid Point Set Registration in Computer-assisted Orthopedic Surgery"** has been accepted by IEEE Transactions on Automation Science and Engineering (**TASE**). Congratulations to Zhengyan!
