@@ -16,6 +16,8 @@ My research mainly concentrates on 3D vision and robot navigation (e.g., surgica
 
 # Latest News [Month/Year]
 ## 2025
+- [**01/2025**] Our paper titled **"Robust Generalized Partial-to-Full Point Set Registration with Overlap-Guided Bidirectional Hybrid Mixture Model for Computer-Assisted Orthopedic Surgery"** has been accepted by IEEE Transactions on Automation Science and Engineering (**TASE**). Congratulations to Xinzhe and Zhengyan!
+## 2025
 - [**12/2025**] Our startup project, **"The AI Engine of Intelligent Inspection: Empowering Unmanned Underwater Vehicles for Marine Infrastructure Integrity"**, has been shortlisted as one of the **Top Performers** in [the PolyU Micro Fund 2025/26 Cohort 1](https://www.polyu.edu.hk/kteo/entrepreneurship/funding_investment/polyu-micro-fund-scheme/?sc_lang=en). **Zhengyan** served as the Principal Applicant. Congratulations to Zhengyan!
 - [**11/2025**] Our paper titled **"DeepBHMR: Learning Bidirectional Hybrid Mixture Models for Generalized Global Rigid Point Set Registration in Computer-assisted Orthopedic Surgery"** has been accepted by IEEE Transactions on Automation Science and Engineering (**TASE**). Congratulations to Zhengyan!
 - [**08/2025**] Our paper titled **"Spatial-temporal Diffusion Model for Underwater Scene Reconstruction with Application to UUV Navigation"** has been accepted by IEEE/ASME Transactions on Mechatronics (**TMECH**). Congratulations to Zhengyan and Liang Fang!
