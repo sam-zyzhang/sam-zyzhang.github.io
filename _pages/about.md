@@ -16,6 +16,9 @@ My research mainly concentrates on 3D vision and robot navigation (e.g., surgica
 
 # Latest News [Month/Year]
 ## 2026
+- [**05/2025**] The doctoral innovation exchange fund project supported by **The Key Laboratory of Polar Ocean Acoustics and Technology Application of the Ministry of Education**, titled **“Probabilistic Manifold Registration and Fine Reconstruction of Polar AUV Multibeam Point Clouds”**, has been approved. Congratulations to **Zhengyan**!
+- [**05/2025**] I was honored to present our team project, **“Autonomous and Intelligent Underwater Unmanned Vehicle System for Marine Engineering Survey,”** at the **2nd Research Workshop of the Research Center for Unmanned Autonomous System (RCUAS)**.
+- [**04/2025**] Our team project, **“AI Engine for Underwater Structural Inspection”**, has been recognized as a **Top 20 Team** in the **OuChuang Win–Hong Kong “AI+” Technology Achievement Competition**. Congratulations to **Zhengyan**!
 - [**01/2025**] Our paper titled **"Robust Generalized Partial-to-Full Point Set Registration with Overlap-Guided Bidirectional Hybrid Mixture Model for Computer-Assisted Orthopedic Surgery"** has been accepted by IEEE Transactions on Automation Science and Engineering (**TASE**). Congratulations to Xinzhe and Zhengyan!
 
 ## 2025
