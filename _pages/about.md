@@ -14,8 +14,13 @@ I also work closely with [Prof. Zhe Min](https://sucro.sdu.edu.cn/info/1012/1491
 
 My research mainly concentrates on 3D vision and robot navigation (e.g., surgical and underwater scenarios). I solve problems by integrating optimization algorithms with deep learning. I currently work on topics about 3D generative models, sonar reconstruction, and point cloud registration.
 
+<span style="color:red;">
+I expect to graduate in <strong>December 2026</strong>. I am actively seeking an <strong>academic position</strong> in robotics, 3D perception, and navigation. If my research interests align with yours, I would be delighted to connect and discuss potential opportunities. Please feel free to contact me via email.
+</span>
+
 # Latest News [Month/Year]
 ## 2026
+- [**06/2025**] Our paper titled **"End-to-End Pixel-Level Diffusion for Fine-Grained Underwater Sonar 3D Reconstruction"** has been accepted by the International Conference on Information Automation (**ICIA**) 2026. Congratulations to **Zhengyan**!
 - [**05/2025**] The doctoral innovation exchange fund project supported by **The Key Laboratory of Polar Ocean Acoustics and Technology Application of the Ministry of Education**, titled **“Probabilistic Manifold Registration and Fine Reconstruction of Polar AUV Multibeam Point Clouds”**, has been approved. Congratulations to **Zhengyan**!
 - [**05/2025**] I was honored to present our team project, **“Autonomous and Intelligent Underwater Unmanned Vehicle System for Marine Engineering Survey,”** at the **2nd Research Workshop of the Research Center for Unmanned Autonomous System (RCUAS)**.
 - [**04/2025**] Our team project, **“AI Engine for Underwater Structural Inspection”**, has been recognized as a **Top 20 Team** in the **OuChuang Win–Hong Kong “AI+” Technology Achievement Competition**. Congratulations to **Zhengyan**!
