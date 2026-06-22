@@ -20,6 +20,8 @@ I expect to graduate in <strong>December 2026</strong>. I am actively seeking an
 
 # Latest News [Month/Year]
 ## 2026
+- [**06/2025**] Our paper titled **"AOPQ-Net Acoustic-Optical Proposal Query Network for Underwater
+Multimodal Object Detection"** has been accepted by Remote Sensing. Congratulations to **Yanze** and **Zhengyan**!
 - [**06/2025**] Our paper titled **"End-to-End Pixel-Level Diffusion for Fine-Grained Underwater Sonar 3D Reconstruction"** has been accepted by the International Conference on Information Automation (**ICIA**) 2026. Congratulations to **Zhengyan**!
 - [**05/2025**] The doctoral innovation exchange fund project supported by **The Key Laboratory of Polar Ocean Acoustics and Technology Application of the Ministry of Education**, titled **“Probabilistic Manifold Registration and Fine Reconstruction of Polar AUV Multibeam Point Clouds”**, has been approved. Congratulations to **Zhengyan**!
 - [**05/2025**] I was honored to present our team project, **“Autonomous and Intelligent Underwater Unmanned Vehicle System for Marine Engineering Survey,”** at the **2nd Research Workshop of the Research Center for Unmanned Autonomous System (RCUAS)**.
