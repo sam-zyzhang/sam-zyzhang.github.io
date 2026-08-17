@@ -20,6 +20,7 @@ I expect to graduate in <strong>December 2026</strong>. I am actively seeking an
 
 # Latest News [Month/Year]
 ## 2026
+- [**08/2025**] Our paper titled **"Generative Imaging Sonar Forward Depth Estimation for Underwater Dense Scene Reconstruction"** has been accepted by Ocean Engineering (**OE**). Congratulations to **Zhengyan**!
 - [**07/2025**] Our paper titled **"SAGA: Saliency-Aware Geometric Augmentation for Rotation-Robust Preoperative Femur Landmark Detection"** has been accepted by Proceedings of the 2026 International Conference on Biomimetic Intelligence and Robotics (**ICBIR**). Congratulations to **Kangjie**, **Xinzhe** and **Zhengyan**!
 - [**06/2025**] Our paper titled **"AOPQ-Net Acoustic-Optical Proposal Query Network for Underwater Multimodal Object Detection"** has been accepted by Remote Sensing. Congratulations to **Yanze** and **Zhengyan**!
 - [**06/2025**] Our paper titled **"End-to-End Pixel-Level Diffusion for Fine-Grained Underwater Sonar 3D Reconstruction"** has been accepted by the International Conference on Information Automation (**ICIA**) 2026. Congratulations to **Zhengyan**!
